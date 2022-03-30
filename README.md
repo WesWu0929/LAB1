@@ -17,7 +17,7 @@ source：https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 | Total            |     5216   |     624  |
 
 **NORMAL**  <img src="https://github.com/WesWu0929/LAB1/blob/main/IM-0117-0001.jpeg" alt="alt text" width="250" height="250">
-**PNEUMONIA**<img src="https://github.com/WesWu0929/LAB1/blob/main/person3_bacteria_11.jpeg" alt="alt text" width="250" height="250">
+**PNEUMONIA** <img src="https://github.com/WesWu0929/LAB1/blob/main/person3_bacteria_11.jpeg" alt="alt text" width="250" height="250">
 
 ## Image transform
 
