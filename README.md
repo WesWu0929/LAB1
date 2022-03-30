@@ -15,7 +15,7 @@ source：https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 | NORMAL           |     1341   |     234  | 
 | PNEUMONIA        |     3875   |     390  |
 | Total            |     5216   |     624  |
-<img src="https://github.com/hcygeorge/aoi_defect_detection/blob/master/aoi_example.png" alt="alt text" width="360" height="300">
+<img src="https://github.com/WesWu0929/LAB1/blob/main/IM-0117-0001.jpeg" alt="alt text" width="360" height="300">
 
 
 ## Image transform
