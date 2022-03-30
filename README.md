@@ -40,15 +40,19 @@ Detect Pneumonia from chest X-Ray images
 ## 成果
 
 下表為建模結果，可看出以預訓練VGG16輸入AOI影像訓練後的辨識結果最佳，對10,142張測試資料的準確度(Accuracy)已達到99%。測試資料的準確度是將預測結果上傳Aidea平台，由Aidea平台評分而得。  
+| 模型結構           | 訓練準確率 | 驗證準確率 | 測試準確率 |
+| ------------------ | ---------: | ---------: | ---------: |
+| LeNet5             |      97.7% |      94.4% |      94.9% |
+| VGG16              |     100.0% |      98.4% |      98.2% |
+| VGG16 (pretrained) |     100.0% |      99.8% |      99.0% |
 
 
-
-| Pretrained Model   | Training Accuracy | Testing Accuracy | F1-Score |
+| Pretrained Model   | Training Accuracy | Testing Accuracy | F1-Score  |
 | ------------------ | ---------: | ---------: | ---------: |---------: |
-| ResNet50           |       100% |      94.4% |      94.9% |
-| InceptionV3        |     95.07% |      94.4% |      94.9% |
-| EfficientNetB0     |       100% |      94.4% |      94.9% |
-| EfficientNetB7     |       100% |      94.4% |      94.9% |
+| ResNet50           |       100% |      94.4% |      94.9% |     94.9% |
+| InceptionV3        |     95.07% |      94.4% |      94.9% |     94.9% |
+| EfficientNetB0     |       100% |      94.4% |      94.9% |     94.9% |
+| EfficientNetB7     |       100% |      94.4% |      94.9% |     94.9% |
 
 
 
