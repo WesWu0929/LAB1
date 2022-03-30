@@ -1,10 +1,7 @@
 # LAB1
 Detect Pneumonia from chest X-Ray images
 
-
-# AOI影像瑕疵檢測
-
-## 專案介紹
+## Introduction
 
 本專案目的為藉由AOI影像訓練深度學習模型辨識產品表面瑕疵，使用框架為Pytorch。實作結果顯示，預訓練VGG16模型的測試準確已達到99.0%。(目前排行榜上最高分為99.9%)
 未來有時間會再嘗試更新的模型架構(如ResNet、DenseNet)，相信能進一步提升測試準確率。
