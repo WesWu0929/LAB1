@@ -8,7 +8,7 @@ This lab is going to using Chest X-RAY images to classify Normal and Pneumonia c
 source：https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 1. Training dataset： 5,216
 2. Testing datasets：   624
-3. classes：2 classes (NORMAL, Pneumonia)
+3. classes：2 classes (NORMAL, PNEUMONIA)
 
 | numbers   | Training datasets | Testing datasets |
 | :--------------: | :-----------------: | :----------------: |
