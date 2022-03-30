@@ -48,7 +48,7 @@ Detect Pneumonia from chest X-Ray images
 
 
 | Pretrained Model   | Training Accuracy | Testing Accuracy | F1-Score  |
-| ------------------ | ---------: | ---------: | ---------: |---------: |
+| -------------------- | ------------------: | ----------------: | -------------: |
 | ResNet50           |       100% |      94.4% |      94.9% |     94.9% |
 | InceptionV3        |     95.07% |      94.4% |      94.9% |     94.9% |
 | EfficientNetB0     |       100% |      94.4% |      94.9% |     94.9% |
