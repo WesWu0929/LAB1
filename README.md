@@ -39,10 +39,10 @@ https://pytorch.org/vision/stable/transforms.html
 
 | Pretrained Model   | Training Accuracy | Testing Accuracy | F1-Score  |
 | -------------------- | ------------------: | ----------------: | -------------: |
-| ResNet50           |       100% |      94.4% |      94.9% |     94.9% |
-| InceptionV3        |     95.07% |      94.4% |      94.9% |     94.9% |
-| EfficientNetB0     |       100% |      94.4% |      94.9% |     94.9% |
-| EfficientNetB7     |       100% |      94.4% |      94.9% |     94.9% |
+| ResNet50           |                  100% |            82.05% |           0.87 |
+| **InceptionV3**    |                95.07% |        **87.18%** |       **0.90** |
+| EfficientNetB0     |                  100% |            86.86% |           0.89 |
+| EfficientNetB7     |                  100% |            83.81% |           0.87 |
 
 
 ## Reference
